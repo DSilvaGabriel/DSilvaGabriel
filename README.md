@@ -16,11 +16,11 @@ Tenho interesse especial em entender **como as coisas funcionam por baixo do cap
 
 ---
 
-## 🧠 Conhecimentos e Estudos
+## 🧠 Conhecimentos em Aprendizado
 
 ### 🧩 Programação em C
 
-Tenho experiência e estudo contínuo em:
+Atualmente estou em aprendizado e prática nos seguintes conceitos:
 
 * Utilização de **ponteiros**
 * **Alocação e gerenciamento de memória**
@@ -29,17 +29,17 @@ Tenho experiência e estudo contínuo em:
 
 ---
 
-### 🐍 Python (em aprendizado)
+### 🐍 Python
 
-* Estudando a linguagem Python
-* Foco em lógica, estruturação de código e boas práticas
-* Utilizando Python como apoio para aprendizado de algoritmos
+* Estudando a linguagem Python desde os fundamentos
+* Foco em lógica de programação, algoritmos e boas práticas
+* Utilizando Python como apoio para o aprendizado de programação
 
 ---
 
 ### 🌐 Desenvolvimento Web
 
-Possuo conhecimentos em **desenvolvimento front-end**, incluindo:
+Atualmente estou aprendendo **desenvolvimento front-end**, incluindo:
 
 * **HTML5**
 
@@ -61,7 +61,7 @@ Possuo conhecimentos em **desenvolvimento front-end**, incluindo:
 
 ## 🧮 Arquitetura e Organização de Dados
 
-Tenho conhecimento teórico e prático sobre:
+Atualmente estou estudando e desenvolvendo conhecimento sobre:
 
 * **Sistemas de numeração**:
 
@@ -83,9 +83,9 @@ Tenho conhecimento teórico e prático sobre:
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo Acadêmico e Profissional
 
-Meu objetivo é evoluir constantemente como desenvolvedor, fortalecendo minha base em:
+Meu objetivo é evoluir constantemente como desenvolvedor, fortalecendo minha base de aprendizado em:
 
 * Programação estruturada
 * Estrutura de dados
