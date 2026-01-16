@@ -15,9 +15,6 @@ Tenho grande interesse em entender **como as coisas funcionam por baixo do capô
 
 Paralelamente, também estudo **Python** e **JavaScript**, utilizando essas linguagens para complementar meu aprendizado, especialmente em automação, scripts e desenvolvimento web, sem deixar de lado meu foco principal em C.
 
-🌐 **Meu site pessoal:**
-👉 [https://www.gabrieldsilva.com.br](https://www.gabrieldsilva.com.br)
-
 ## 🧠 Tecnologias em aprendizado
 
 ### Linguagens
@@ -36,6 +33,5 @@ Paralelamente, também estudo **Python** e **JavaScript**, utilizando essas ling
 ## 📫 Como entrar em contato comigo
 
 [![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gabrieldsilva.com.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsilvafernandes2006@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldsilvafernandes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieldsilva.f)
