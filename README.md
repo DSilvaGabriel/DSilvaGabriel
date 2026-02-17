@@ -12,7 +12,7 @@ Não me limito apenas à grade acadêmica: busco ativamente o domínio prático 
 
 ---
 
-### 🧠 Tecnologias & Ferramentas
+### 🧠 Stack Tecnológica
 
 #### 💻 Linguagens e Frameworks
 <p align="left">
@@ -24,7 +24,7 @@ Não me limito apenas à grade acadêmica: busco ativamente o domínio prático 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
 </p>
 
-#### 🛠️ Ferramentas e Deploy
+#### 🛠️ Ferramentas e Infra
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
@@ -40,8 +40,21 @@ Não me limito apenas à grade acadêmica: busco ativamente o domínio prático 
 </p>
 
 ---
-## 📫 Como entrar em contato comigo
 
-[![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gabrieldsilva.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldsilvafernandes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieldsilva.f)
+> **"Tenho a ambição e o desejo de me tornar um grande programador, e para isso, irei me dedicar com foco total até alcançar meus objetivos!"** 🚀
+
+---
+
+### 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.gabrieldsilva.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site">
+  </a>
+  <a href="https://www.linkedin.com/in/gabrieldsilvafernandes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/gabrieldsilva.f" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
