@@ -40,15 +40,6 @@ Não me limito apenas à grade acadêmica: busco ativamente o domínio prático 
 </p>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DSilvaGabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSilvaGabriel&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
 ## 📫 Como entrar em contato comigo
 
 [![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gabrieldsilva.com.br)
